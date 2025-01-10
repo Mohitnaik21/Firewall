@@ -1,0 +1,25 @@
+<script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: "sql",
+		theme: "dracula",
+		lineNumbers: true
+		});
+		code.setSize("1000","500");
+		</script>
+
+		<label for="output">This is the output.</label><br>
+		<textarea id="output" name="output" rows="30" cols="50" style="resize:none" placeholder="//Your output here.">{{output}}</textarea>
+
+		<script>
+		var output=CodeMirror.fromTextArea
+		(document.getElementById('output'),
+		{
+		theme: "material-ocean",
+		lineNumbers: true
+		});
+		output.setSize("1000","500");
+		</script>
+		
+		

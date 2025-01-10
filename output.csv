@@ -1,0 +1,192 @@
+name,Label
+This is ok,1
+" df1=pd.DataFrame(x, columns =['customer_id'])",1
+" df1=pd.DataFrame(x, columns =['customer_id'])",1
+"<script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>",0
+" <script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>",0
+This is normal,1
+" hello worls
+ ",1
+"<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The += Operator</h2>
+
+<p id=""demo""></p>
+
+<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+</body>
+</html>
+",1
+"<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The += Operator</h2>
+
+<p id=""demo""></p>
+
+<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+</body>
+</html>
+ ",1
+"
+
+<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+  ",1
+"<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+   ",1
+"<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+   ",1
+"<script>
+var x = 10;
+x += 5;
+document.getElementById(""demo"").innerHTML = x;
+</script>
+
+    ",1
+"var x, y, z;       // Declare Variables
+x = 5; y = 6;      // Assign Values
+z = x + y;    ",1
+"<script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>
+",0
+"<script>
+		var output=CodeMirror.fromTextArea
+		(document.getElementById('output'),
+		{
+		theme: ""material-ocean"",
+		lineNumbers: true
+		});
+		output.setSize(""1000"",""500"");
+		</script>",0
+" <script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>
+
+		<label for=""output"">This is the output.</label><br>
+		<textarea id=""output"" name=""output"" rows=""30"" cols=""50"" style=""resize:none"" placeholder=""//Your output here."">{{output}}</textarea>
+
+		<script>
+		var output=CodeMirror.fromTextArea
+		(document.getElementById('output'),
+		{
+		theme: ""material-ocean"",
+		lineNumbers: true
+		});
+		output.setSize(""1000"",""500"");
+		</script>
+		
+		",0
+" <script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>
+
+		<label for=""output"">This is the output.</label><br>
+		<textarea id=""output"" name=""output"" rows=""30"" cols=""50"" style=""resize:none"" placeholder=""//Your output here."">{{output}}</textarea>
+
+		<script>
+		var output=CodeMirror.fromTextArea
+		(document.getElementById('output'),
+		{
+		theme: ""material-ocean"",
+		lineNumbers: true
+		});
+		output.setSize(""1000"",""500"");
+		</script>
+		
+		",0
+"hello world
+",1
+" <script>
+		var code=CodeMirror.fromTextArea
+		(document.getElementById('code'),
+		{
+		mode: ""sql"",
+		theme: ""dracula"",
+		lineNumbers: true
+		});
+		code.setSize(""1000"",""500"");
+		</script>
+
+		<label for=""output"">This is the output.</label><br>
+		<textarea id=""output"" name=""output"" rows=""30"" cols=""50"" style=""resize:none"" placeholder=""//Your output here."">{{output}}</textarea>
+
+		<script>
+		var output=CodeMirror.fromTextArea
+		(document.getElementById('output'),
+		{
+		theme: ""material-ocean"",
+		lineNumbers: true
+		});
+		output.setSize(""1000"",""500"");
+		</script>
+		
+		
+        ",0
